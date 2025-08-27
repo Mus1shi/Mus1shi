@@ -37,17 +37,16 @@ Team collaboration | Documentation | Continuous learning | Structured thinking
 
 🎯 **Certifications – by January 2026 :**
 - ✅ ISC2 Certified in Cybersecurity (CC)
-- ✅ SC-900 – Microsoft Security, Compliance & Identity Fundamentals
 - ✅ AZ-900 – Microsoft Azure Fundamentals
 - ✅ SC-300 – Identity & Access Administrator Associate
 - ✅ AZ-500 – Azure Security Engineer Associate
-- ✅ Splunk Core Certified User
-- ✅ SC-200 – Microsoft Security Operations Analyst Associate
 
 🎯 **Planned for 2026+ :**
 - 🟧 Terraform Associate (HashiCorp)
 - 🟧 AWS Certified Security – Specialty
 - 🟧 **Microsoft Cybersecurity Architect Expert (SC-100)** *(targeted after field experience)*
+- 🟧 Splunk Core Certified User
+- 🟧 SC-200 – Microsoft Security Operations Analyst Associate
 
 ---
 
