@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tommy Vlassiou
+# 👋 Hi, I’m Tommy
 
 Junior Cybersecurity Analyst based in Brussels.  
 I’m building practical security skills through hands-on labs and projects, with a strong focus on **Azure**, **Microsoft 365 security**, **Entra ID**, **PowerShell automation**, and **SOC-style detection**.
