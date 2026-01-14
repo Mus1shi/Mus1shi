@@ -1,66 +1,78 @@
-# 👋 Hello, I'm Tommy | Cybersecurity & Cloud Security Student
+# 👋 Hi, I’m Tommy Vlassiou
 
-Driven by a strong interest in **cybersecurity and cloud security**, I’m currently enrolled in an intensive bootcamp focused on defense, detection, and secure architecture in modern systems.
+Junior Cybersecurity Analyst based in Brussels.  
+I’m building practical security skills through hands-on labs and projects, with a strong focus on **Azure**, **Microsoft 365 security**, **Entra ID**, **PowerShell automation**, and **SOC-style detection**.
 
-I bring with me a background in **full-stack development**, which I now leverage to build secure, automated, and scalable solutions. My path is focused, structured, and grounded in real-world application.
-
----
-
-## 🛠️ Project in Progress
-
-### 🔧 [CloudSec Watcher](#) *(in development)*  
-A security auditing tool for cloud environments (Azure).  
-Includes misconfiguration detection, compliance checks, and alerting logic.
+Before cybersecurity, I worked in operational management roles, so I naturally think in terms of **process**, **reliability**, **documentation**, and **execution under pressure**.
 
 ---
 
-## 🔐 Skills & Tools
-
-**Cybersecurity / Cloud**  
-(in progress)
-SIEM | Log analysis | Threat detection | SOC workflows | MITRE ATT&CK  
-Azure Security | Identity hardening | Terraform | Cloud compliance  
-Infrastructure-as-Code | Alerting | Logging | Defender for Cloud
-
-**Dev Tools**  
-Python | Bash | SQL | Git | GitHub | Regex | Docker | REST APIs
-
-**Soft skills**  
-Team collaboration | Documentation | Continuous learning | Structured thinking
+## 🔍 Current Focus
+- Microsoft 365 security (Entra ID / Exchange Online / Conditional Access / MFA)
+- Detection & investigation mindset (SOC workflows)
+- PowerShell automation (Microsoft Graph API, modules, scripts, reporting)
+- Azure security basics (IAM, NSG, Key Vault, monitoring)
 
 ---
 
-## 🎓 Education & Certifications
+## 🚧 Main Project
+### 🔧 M365 Security Audit Toolkit *(in development)*
+A PowerShell toolkit to automate security auditing for Microsoft 365 environments.
 
-**Cybersecurity Bootcamp (BeCode)**  
-2024 – 2025 | Brussels
+**Goal:** quickly get visibility on security posture and export results as clean reports.
 
-🎯 **Certifications – by January 2026 :**
-- ✅ ISC2 Certified in Cybersecurity (CC)
-- ✅ AZ-900 – Microsoft Azure Fundamentals
-- ✅ SC-300 – Identity & Access Administrator Associate
-- ✅ AZ-500 – Azure Security Engineer Associate
+Features (current + planned):
+- User & license inventory
+- MFA status tracking
+- Security group auditing
+- Failed sign-in detection
+- CSV exports + structured reporting
 
-🎯 **Planned for 2026+ :**
-- 🟧 Terraform Associate (HashiCorp)
-- 🟧 AWS Certified Security – Specialty
-- 🟧 **Microsoft Cybersecurity Architect Expert (SC-100)** *(targeted after field experience)*
-- 🟧 Splunk Core Certified User
-- 🟧 SC-200 – Microsoft Security Operations Analyst Associate
+---
+
+## 🧪 Other Projects / Experience
+- **Python Port Scanner** (team project)  
+  ARP/ICMP/TCP SYN scanning + logging + input validation + ethical test report.
+
+- **Phishing Campaign Simulation (Orange Cyberdefense Hackathon)**  
+  Social engineering scenario + malicious email crafting + analysis + awareness report.
+
+- **Internship Developer — Belgian Senate**  
+  Next.js / React / TypeScript (useful now for security automation + tooling mindset).
+
+---
+
+## 🛠️ Skills
+**Security / Cloud**
+- M365 Administration: Entra ID, Exchange Online, Conditional Access, MFA
+- GRC fundamentals: DLP, retention policies, audit logs, ISO/IEC 27001 basics
+- SIEM: Microsoft Sentinel (detection + investigation)
+- Azure security: IAM, NSG, Key Vault, monitoring
+
+**Automation / Dev**
+- PowerShell (automation, remoting, modules, Graph API)
+- Python, SQL, KQL
+- Git / GitHub, Docker
+
+---
+
+## 🎓 Certification
+- ✅ (ISC)² Certified in Cybersecurity (CC)
 
 ---
 
 ## 🌍 Languages
-
-- 🇫🇷 French – Native  
-- 🇬🇧 English – Fluent
-- 
----
-
-## 🤝 Let’s connect
-
-- 💼 [LinkedIn]www.linkedin.com/in/tommy-vlassiou
+- 🇫🇷 French — Native  
+- 🇬🇧 English — Professional  
+- 🇳🇱 Dutch — Basic (learning)
 
 ---
 
-> ⚙️ This profile evolves as I train and build. Stay tuned for more tools, labs, and real-world security applications.
+## 🤝 Contact
+- GitHub: https://github.com/Mus1shi
+- LinkedIn: https://www.linkedin.com/in/tommy-vlassiou
+- Email: tomvla49@gmail.com
+
+---
+
+> Calm under pressure. Structured by process. Focused on security.
