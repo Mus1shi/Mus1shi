@@ -1,77 +1,143 @@
-# 👋 Hi, I’m Tommy
+# 👋 Hi, I'm Tommy
 
-Junior Cybersecurity Analyst based in Brussels.  
-I’m building practical security skills through hands-on labs and projects, with a strong focus on **Azure**, **Microsoft 365 security**, **Entra ID**, **PowerShell automation**, and **SOC-style detection**.
+Junior Cybersecurity Analyst based in Brussels, focused on **Microsoft cloud security, automation, and operational security monitoring**.
 
-Before cybersecurity, I worked in operational management roles, so I naturally think in terms of **process**, **reliability**, **documentation**, and **execution under pressure**.
+I build practical security tooling and scripts around **Microsoft 365**, **Entra ID**, **Intune**, and **PowerShell automation**, with the goal of improving **visibility, detection, and operational response for IT and security teams**.
 
----
-
-## 🔍 Current Focus
-- Microsoft 365 security (Entra ID / Exchange Online / Conditional Access / MFA)
-- Detection & investigation mindset (SOC workflows)
-- PowerShell automation (Microsoft Graph API, modules, scripts, reporting)
-- Azure security basics (IAM, NSG, Key Vault, monitoring)
+Before moving into cybersecurity, I worked for many years in operational management roles.  
+This background shaped the way I approach security today: **structured processes, reliability, documentation, and execution under pressure**.
 
 ---
 
-## 🚧 Main Project
-### 🔧 M365 Security Audit Toolkit *(in development)*
-A PowerShell toolkit to automate security auditing for Microsoft 365 environments.
+# 🔍 Current Focus
 
-**Goal:** quickly get visibility on security posture and export results as clean reports.
+- Microsoft 365 security (Entra ID / Conditional Access / MFA)
+- Device security and identity correlation (Intune / Entra / endpoint data)
+- SOC mindset: detection, investigation, risk identification
+- PowerShell automation for security operations
+- Azure security fundamentals (IAM, monitoring, access control)
 
-Features (current + planned):
-- User & license inventory
+---
+
+# 🚧 Main Projects
+
+## 🔐 BYOD Security Posture Monitor *(internship project)*
+
+PowerShell-based security tool designed to **correlate device data across multiple security sources** and provide operational visibility for IT support and security teams.
+
+Goal: help identify **non-compliant, unmanaged, or suspicious devices** inside the environment.
+
+Core capabilities:
+
+- Correlation between:
+  - Microsoft Entra ID devices
+  - Intune managed devices
+  - Trend Micro endpoint inventory
+- Identification of:
+  - Unregistered devices
+  - Non-compliant endpoints
+  - Partial identity matches
+- Risk classification and tagging
+- Helpdesk-ready case generation
+- Automated reporting for operational teams
+- JSON export for dashboard integration
+- Email alerts for risky devices
+
+This project is designed to **reduce investigation time for helpdesk and security teams and improve device visibility across the environment**.
+
+---
+
+## 🔧 M365 Security Audit Toolkit *(in development)*
+
+PowerShell toolkit to automate security posture analysis of Microsoft 365 environments.
+
+Purpose: quickly obtain **clear security visibility** through automated reports.
+
+Current / planned features:
+
+- User and license inventory
 - MFA status tracking
+- Conditional Access overview
 - Security group auditing
-- Failed sign-in detection
-- CSV exports + structured reporting
+- Suspicious sign-in detection
+- Structured reporting (CSV / JSON)
 
 ---
 
-## 🧪 Other Projects / Experience
-- **Python Port Scanner** (team project)  
-  ARP/ICMP/TCP SYN scanning + logging + input validation + ethical test report.
+# 🧪 Other Projects
 
-- **Phishing Campaign Simulation (Orange Cyberdefense Hackathon)**  
-  Social engineering scenario + malicious email crafting + analysis + awareness report.
+### Python Network Scanner
+Team project implementing:
 
-- **Internship Developer — Belgian Senate**  
-  Next.js / React / TypeScript (useful now for security automation + tooling mindset).
+- ARP discovery
+- ICMP scanning
+- TCP SYN scanning
+- Logging system
+- Input validation
+- Ethical testing report
 
----
+### Phishing Campaign Simulation
+Orange Cyberdefense Hackathon project including:
 
-## 🛠️ Skills
-**Security / Cloud**
-- M365 Administration: Entra ID, Exchange Online, Conditional Access, MFA
-- GRC fundamentals: DLP, retention policies, audit logs, ISO/IEC 27001 basics
-- SIEM: Microsoft Sentinel (detection + investigation)
-- Azure security: IAM, NSG, Key Vault, monitoring
-
-**Automation / Dev**
-- PowerShell (automation, remoting, modules, Graph API)
-- Python, SQL, KQL
-- Git / GitHub, Docker
+- Social engineering scenario
+- Phishing email creation
+- Campaign simulation
+- Risk and awareness analysis
 
 ---
 
-## 🎓 Certification
+# 🛠️ Technical Skills
+
+## Security & Cloud
+- Microsoft 365 Security
+  - Entra ID
+  - Conditional Access
+  - MFA
+  - Exchange Online
+- Endpoint & Device Management
+  - Intune
+  - Device compliance monitoring
+- SIEM
+  - Microsoft Sentinel (detection & investigation)
+- Azure security fundamentals
+  - IAM
+  - NSG
+  - Key Vault
+  - Monitoring
+
+## Automation & Development
+- PowerShell (automation, scripting, Graph API)
+- Python
+- KQL
+- SQL
+- Git / GitHub
+
+---
+
+# 🎓 Certification
+
 - ✅ (ISC)² Certified in Cybersecurity (CC)
 
 ---
 
-## 🌍 Languages
+# 🌍 Languages
+
 - 🇫🇷 French — Native  
 - 🇬🇧 English — Professional  
 - 🇳🇱 Dutch — Basic (learning)
 
 ---
 
-## 🤝 Contact
-- GitHub: https://github.com/Mus1shi
-- LinkedIn: https://www.linkedin.com/in/tommy-vlassiou
-- Email: tomvla49@gmail.com
+# 🤝 Contact
+
+GitHub  
+https://github.com/Mus1shi
+
+LinkedIn  
+https://www.linkedin.com/in/tommy-vlassiou
+
+Email  
+tomvla49@gmail.com
 
 ---
 
